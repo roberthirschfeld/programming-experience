@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 584.7 235.1" style="enable-background:new 0 0 584.7 235.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'FontinSans-BoldItalic';}
+	.st1{font-size:288px;}
+	.st2{fill:#D86C34;}
+	.st3{font-family:'FontinSans-Regular';}
+	.st4{letter-spacing:-23;}
+	.st5{letter-spacing:-11;}
+	.st6{fill:none;}
+	.st7{font-family:'Fontin-Regular';}
+	.st8{letter-spacing:-46;}
+</style>
+<font horiz-adv-x="1000">
+<!-- Copyright (c) Jos Buivenga, 2004. All rights reserved. -->
+<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="Fontin-Regular" units-per-em="1000" underline-position="-140" underline-thickness="20"/>
+<missing-glyph horiz-adv-x="1000"/>
+<glyph unicode="P" horiz-adv-x="553" d="M219,0C215,31 212,155 210,256C228,252 245,250 263,250C395,250 503,337 503,460C503,623 382,664 282,664C278,664 275,664 271,664l-180,-6l-7,-17C120,596 111,435 111,266C112,189 110,103 110,16l0,-16M273,300C241,300 224,302 210,309C210,316 210,326 210,339C210,429 210,570 213,606l54,2C330,610 414,565 414,438C414,353 350,300 273,300z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright (c) 2007 by Jos Buivenga. All rights reserved. -->
+<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="FontinSans-BoldItalic" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph unicode="X" horiz-adv-x="543" d="M326,0l140,0l-122,337l242,331l-135,0l-131,-187l-20,-34l-9,34l-69,187l-160,0l49,-72l92,-253l-256,-343l137,0l141,202l20,34l9,-36z"/>
+</font>
+
+	<font horiz-adv-x="1000">
+<!-- Copyright (c) 2007 by Jos Buivenga. All rights reserved. -->
+<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
+<font-face font-family="FontinSans-Regular" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
+<missing-glyph horiz-adv-x="500"/>
+<glyph unicode="1" horiz-adv-x="400" d="M49,0l321,0l10,66l-124,0l0,523l-213,-71l25,-61l104,32l0,-423l-123,0z"/>
+<glyph unicode="6" horiz-adv-x="500" d="M285,421C216,421 154,387 132,373C146,529 219,600 301,600C348,600 395,575 415,544l35,68C417,652 354,669 306,669C158,669 40,558 40,302C40,142 101,-13 250,-13C386,-13 461,99 461,228C461,359 376,421 285,421M267,58C162,58 131,186 130,307C145,319 192,350 243,350C313,350 370,303 370,200C370,132 337,58 267,58z"/>
+<glyph unicode="/" horiz-adv-x="291" d="M260,657l-74,0l-213,-901l71,0z"/>
+</font>
+
+	<polygon id="XMLID_77_" points="213.3,119 300.1,0 260.3,0 200,88.1 173.2,116.8 84.4,235.1 125.4,235.1 185.3,147.1 "/>
+<text id="XMLID_76_" transform="matrix(1 0 0 1 114.1983 215.9794)"><tspan x="0" y="0" class="st0 st1">X</tspan><tspan x="156.4" y="-32" class="st2 st3 st1 st4">/</tspan><tspan x="217.1" y="0" class="st2 st3 st1 st5">1</tspan><tspan x="320.8" y="0" class="st2 st3 st1">6</tspan></text>
+<rect id="XMLID_15_" x="-5.7" y="-1.9" class="st6" width="149.1" height="279.7"/>
+<text id="XMLID_74_" transform="matrix(1 0 0 1 -5.7217 215.5155)" class="st7 st1 st8">P</text>
+</svg>
