@@ -3,44 +3,37 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 584.7 235.1" style="enable-background:new 0 0 584.7 235.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{font-family:'FontinSans-BoldItalic';}
-	.st1{font-size:288px;}
-	.st2{fill:#D86C34;}
-	.st3{font-family:'FontinSans-Regular';}
-	.st4{letter-spacing:-23;}
-	.st5{letter-spacing:-11;}
-	.st6{fill:none;}
-	.st7{font-family:'Fontin-Regular';}
-	.st8{letter-spacing:-46;}
+	.st0{fill:#D86C34;}
+	.st1{fill:none;}
 </style>
-<font horiz-adv-x="1000">
-<!-- Copyright (c) Jos Buivenga, 2004. All rights reserved. -->
-<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
-<font-face font-family="Fontin-Regular" units-per-em="1000" underline-position="-140" underline-thickness="20"/>
-<missing-glyph horiz-adv-x="1000"/>
-<glyph unicode="P" horiz-adv-x="553" d="M219,0C215,31 212,155 210,256C228,252 245,250 263,250C395,250 503,337 503,460C503,623 382,664 282,664C278,664 275,664 271,664l-180,-6l-7,-17C120,596 111,435 111,266C112,189 110,103 110,16l0,-16M273,300C241,300 224,302 210,309C210,316 210,326 210,339C210,429 210,570 213,606l54,2C330,610 414,565 414,438C414,353 350,300 273,300z"/>
-</font>
-
-	<font horiz-adv-x="1000">
-<!-- Copyright (c) 2007 by Jos Buivenga. All rights reserved. -->
-<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
-<font-face font-family="FontinSans-BoldItalic" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
-<missing-glyph horiz-adv-x="500"/>
-<glyph unicode="X" horiz-adv-x="543" d="M326,0l140,0l-122,337l242,331l-135,0l-131,-187l-20,-34l-9,34l-69,187l-160,0l49,-72l92,-253l-256,-343l137,0l141,202l20,34l9,-36z"/>
-</font>
-
-	<font horiz-adv-x="1000">
-<!-- Copyright (c) 2007 by Jos Buivenga. All rights reserved. -->
-<!-- Copyright: Copyright 2016 Adobe System Incorporated. All rights reserved. -->
-<font-face font-family="FontinSans-Regular" units-per-em="1000" underline-position="-100" underline-thickness="50"/>
-<missing-glyph horiz-adv-x="500"/>
-<glyph unicode="1" horiz-adv-x="400" d="M49,0l321,0l10,66l-124,0l0,523l-213,-71l25,-61l104,32l0,-423l-123,0z"/>
-<glyph unicode="6" horiz-adv-x="500" d="M285,421C216,421 154,387 132,373C146,529 219,600 301,600C348,600 395,575 415,544l35,68C417,652 354,669 306,669C158,669 40,558 40,302C40,142 101,-13 250,-13C386,-13 461,99 461,228C461,359 376,421 285,421M267,58C162,58 131,186 130,307C145,319 192,350 243,350C313,350 370,303 370,200C370,132 337,58 267,58z"/>
-<glyph unicode="/" horiz-adv-x="291" d="M260,657l-74,0l-213,-901l71,0z"/>
-</font>
-
-	<polygon id="XMLID_77_" points="213.3,119 300.1,0 260.3,0 200,88.1 173.2,116.8 84.4,235.1 125.4,235.1 185.3,147.1 "/>
-<text id="XMLID_76_" transform="matrix(1 0 0 1 114.1983 215.9794)"><tspan x="0" y="0" class="st0 st1">X</tspan><tspan x="156.4" y="-32" class="st2 st3 st1 st4">/</tspan><tspan x="217.1" y="0" class="st2 st3 st1 st5">1</tspan><tspan x="320.8" y="0" class="st2 st3 st1">6</tspan></text>
-<rect id="XMLID_15_" x="-5.7" y="-1.9" class="st6" width="149.1" height="279.7"/>
-<text id="XMLID_74_" transform="matrix(1 0 0 1 -5.7217 215.5155)" class="st7 st1 st8">P</text>
+<polygon id="XMLID_77_" points="213.3,119 300.1,0 260.3,0 200,88.1 173.2,116.8 84.4,235.1 125.4,235.1 185.3,147.1 "/>
+<g id="XMLID_76_">
+	<path id="XMLID_6_" d="M187.3,158.4l-2.6-10.4l-5.8,9.8L138.4,216H98.9l73.7-98.8l-26.5-72.9l-14.1-20.7h46.1L198,77.5l2.6,9.8
+		l5.8-9.8l37.7-53.9H283l-69.7,95.3l35.1,97.1h-40.3L187.3,158.4z"/>
+	<path id="XMLID_8_" class="st0" d="M283.3,254.2h-20.4L324.1-5.2h21.3L283.3,254.2z"/>
+	<path id="XMLID_10_" class="st0" d="M345.5,197h35.4V75.2l-30,9.2l-7.2-17.6l61.3-20.4V197h35.7l-2.9,19h-92.4V197z"/>
+	<path id="XMLID_12_" class="st0" d="M567.8,150.3c0,37.2-21.6,69.4-60.8,69.4c-42.9,0-60.5-44.6-60.5-90.7
+		c0-73.7,34-105.7,76.6-105.7c13.8,0,32,4.9,41.5,16.4l-10.1,19.6c-5.8-8.9-19.3-16.1-32.8-16.1c-23.6,0-44.6,20.4-48.7,65.4
+		c6.3-4,24.2-13.8,44.1-13.8C543.3,94.7,567.8,112.6,567.8,150.3z M541.6,158.4c0-29.7-16.4-43.2-36.6-43.2
+		c-14.7,0-28.2,8.9-32.5,12.4c0.3,34.8,9.2,71.7,39.5,71.7C532.1,199.3,541.6,178,541.6,158.4z"/>
+</g>
+<g id="XMLID_74_">
+	<rect id="XMLID_5_" x="-5.7" y="-1.9" class="st1" width="149.1" height="279.7"/>
+	<path id="XMLID_2_" d="M26,215.5v-4.6c0-25.1,0.6-49.8,0.3-72c0-48.7,2.6-95-7.8-108l2-4.9l51.8-1.7c1.2,0,2,0,3.2,0
+		c28.8,0,63.6,11.8,63.6,58.8c0,35.4-31.1,60.5-69.1,60.5c-5.2,0-10.1-0.6-15.3-1.7c0.6,29.1,1.4,64.8,2.6,73.7H26z M113.5,89.4
+		c0-36.6-24.2-49.5-42.3-49L55.6,41c-0.9,10.4-0.9,51-0.9,76.9c0,3.7,0,6.6,0,8.6c4,2,8.9,2.6,18.1,2.6
+		C95.1,129.1,113.5,113.9,113.5,89.4z"/>
+</g>
+<g id="XMLID_1_">
+</g>
+<g id="XMLID_15_">
+</g>
+<g id="XMLID_16_">
+</g>
+<g id="XMLID_17_">
+</g>
+<g id="XMLID_18_">
+</g>
+<g id="XMLID_19_">
+</g>
 </svg>
