@@ -1,0 +1,68 @@
+Call for Papers
+
+*** Programming Experience 2016 (PX/16) Workshop ***
+
+July 18 (Mon), 2016
+Co-located with ECOOP 2016 in Rome
+
+2016.ecoop.org/track/PX-2016
+programming-experience.org/px16
+
+=== Abstract ===
+
+Imagine a software development task. Some sort of requirements and specification including performance goals and perhaps a platform and programming language. A group of developers head into a vast workroom.
+
+<crossfade to developers exiting the vast workroom>
+
+The Programming Experience Workshop is about what happens in that room when one or a couple of programmers sit down in front of computers and produce code, especially when it's exploratory programming. Do they create text that is transformed into running behavior (the old way), or do they operate on behavior directly ("liveness"); are they exploring the live domain to understand the true nature of the requirements; are they like authors creating new worlds; does visualization matter; is the experience immediate, immersive, vivid and continuous; do fluency, literacy, and learning matter; do they build tools, meta-tools; are they creating languages to express new concepts quickly and easily; and curiously, is joy relevant to the experience?
+
+Correctness, performance, standard tools, foundations, and text-as-program are important traditional research areas, but the experience of programming and how to improve and evolve it are the focus of this workshop.
+
+=== Submissions ===
+
+Submissions are solicited for Programming Experience 2016 (PX/16). The thrust of the workshop is to explore the human experience of programming—what it feels like to program, or more accurately, what it should feel like. The technical topics include exploratory programming, live programming, authoring, representation of active content, visualization, navigation, modularity mechanisms, immediacy, literacy, fluency, learning, tool building, and language engineering.
+
+Submissions by academics, professional programmers, and non-professional programmer are welcome. Submissions can be in any form and format, including but not limited to papers, presentations, demos, videos, panels, debates, essays, writers' workshops, and art. Presentation slots will be between 30 minutes and one hour, depending on quality, form, and relevance to the workshop. Submissions directed toward publication should be so marked, and the program committee will engage in peer review for all such papers. Video publication will be arranged.
+
+All artifacts are to be submitted via EasyChair (https://easychair.org/conferences/?conf=px16). Papers and essays must be written in English, provided as PDF documents, and follow the ACM SIGPLAN Conference Format (10 point font, Times New Roman font family, numeric citation style, http://www.sigplan.org/Resources/Author/).
+
+There is no page limit on submitted papers and essays. It is, however, the responsibility of the authors to keep the reviewers interested and motivated to read the paper. Reviewers are under no obligation to read all or even a substantial portion of a paper or essay if they do not find the initial part of it interesting.
+
+=== Format ===
+
+Paper presentations, presentations without papers, live demonstrations, performances, videos, panel discussions, debates, writers' workshops, art galleries, dramatic readings.
+
+=== Review ===
+
+Papers and essays labeled as publications will undergo standard peer review; other submissions will be reviewed for relevance and quality; shepherding will be available.
+
+=== Important dates ===
+
+Submissions: April 15, 2016 (anywhere in the world)
+Notifications: May 13, 2016
+PX/16: July 18, 2016
+
+=== Publication ===
+
+Papers and essays accepted through peer review will be published as part of ACM's Digital Library; video publication on Vimeo or other streaming site; other publication on the PX workshop website.
+
+=== Organizers ===
+
+Robert Hirschfeld, Hasso Plattner Institute, University of Potsdam, Germany
+Richard P. Gabriel, Dreamsongs and IBM Almaden Research Center, United States
+Hidehiko Masuhara, Mathematical and Computing Science, Tokyo Institute of Technology, Japan
+
+=== Program committee ===
+
+Carl Friedrich Bolz, King's College London, United Kingdom
+Gilad Bracha, Google, United States
+Andrew Bragdon, Twitter, United States
+Jonathan Edwards, CDG Labs, United States
+Jun Kato, National Institute of Advanced Industrial Science and Technology, Japan
+Cristina Videira Lopes, University of California at Irvine, United States
+Yoshiki Ohshima, Viewpoints Research Institute, United States
+Michael Perscheid, SAP Innovation Center, Germany
+Guido Salvaneschi, TU Darmstadt, Germany
+Marcel Taeumel, Hasso Plattner Institute, University of Potsdam, Germany
+Alessandro Warth, SAP Labs, United States
+
